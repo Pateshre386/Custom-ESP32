@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-24042024-032901";"";
+"REFERENCE";"22284245";"";
+"TraceParts.PartTitle";"KK 254";"";
+"TraceParts.InstanceId";"90-24042024-0329012N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"KK 254 Breakaway Header, Vertical, 24 Circuits, 0.38µm Gold (Au) Selective Plating, Mating Pin Length 7.49mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

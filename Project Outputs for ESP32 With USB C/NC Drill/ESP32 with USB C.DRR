@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32 with USB C.PcbDoc   2025-11-18  2:40:34 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII RoundHoles File : ESP32 with USB C-RoundHoles.TXT
+ASCII SlotHoles File : ESP32 with USB C-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             161       PTH        14.96inch (379.87mm)
+T2      24mil (0.6mm)                                             Slot              8         PTH        3.35inch (85.12mm)
+T3      28mil (0.711mm)                                           Round             5         PTH        1.15inch (29.24mm)
+T4      40mil (1.016mm)                                           Round             48        PTH        5.50inch (139.70mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              222
+
+Total Processing Time (hh:mm:ss) : 00:00:00
