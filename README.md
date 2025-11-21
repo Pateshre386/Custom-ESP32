@@ -1,8 +1,8 @@
 # Custom ESP32-S3 Development Board
-**Status:** Prototype V1.0 | **EDA Tool:** Altium Designer
+**EDA Tool:** Altium Designer
 
 ## Project Overview
-A custom 4-layer development board based on the ESP32-S3 Mini. Designed to enable rapid prototyping of IoT applications with native USB-C debugging and high-efficiency power regulation.
+A custom 4-layer development board based on the ESP32-S3 Mini. 
 ![Board 3D View](3D_View.png)
 
 ## Key Features
@@ -12,7 +12,7 @@ A custom 4-layer development board based on the ESP32-S3 Mini. Designed to enabl
 * **PCB Stackup:** 4-Layer (Sig / Gnd / Pwr / Sig) 
 
 ## Design View
-Output Files available in the [[Hardware](/Project Outputs for ESP32 With USB C)]folder.
+Output Files available in the [Hardware](Project Outputs for ESP32 With USB C/Sent To Production/Gerber.zip)folder.
 ![Schematic Preview](Final/2D_View.pdf)
 
 ## Fabrication
